@@ -1,5 +1,5 @@
 {
-  "name": "react-native-track-player",
+  "name": "@westdeutscherrundfunkkoeln/react-native-track-player",
   "version": "1.3.1",
   "description": "A fully fledged audio module created for music apps",
   "contributors": [
@@ -36,10 +36,10 @@
   "license": "Apache-2.0",
   "repository": {
     "type": "git",
-    "url": "https://github.com/react-native-kit/react-native-track-player.git"
+    "url": "https://github.com/WestdeutscherRundfunkKoeln/react-native-track-player.git"
   },
   "bugs": {
-    "url": "https://github.com/react-native-kit/react-native-track-player/issues"
+    "url": "https://github.com/WestdeutscherRundfunkKoeln/react-native-track-player/issues"
   },
   "scripts": {
   },
